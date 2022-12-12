@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My Skills**
 
-- 🌱 I’m currently learning **Frontend, Web development, Web 3.0**
+- 🌱 I’m currently learning **Frontend,Data structure, Web development, Web 3.0**
 
 - 🤝 I’m looking for help with **My projects**
 
